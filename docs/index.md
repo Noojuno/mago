@@ -47,6 +47,7 @@ features:
 </div><hr><div class="sponsors-list-small"><a class="sponsor-item-small" href="https://www.ticketswap.com" title="TicketSwap" target="_blank" rel="noopener"><img src="https://avatars.githubusercontent.com/u/5766233?v=4&s=48" alt="TicketSwap"></a>
 <a class="sponsor-item-small" href="https://github.com/kambo-1st" title="Bohuslav Šimek" target="_blank" rel="noopener"><img src="https://avatars.githubusercontent.com/u/6493048?u=5eddf1eb923810745d8bdd62496d245238833d07&v=4&s=48" alt="Bohuslav Šimek"></a>
 <a class="sponsor-item-small" href="https://heysora.net/" title="HeySora" target="_blank" rel="noopener"><img src="https://avatars.githubusercontent.com/u/17962248?u=f648cc7bd2aca843662fc8166e206e0b047f075a&v=4&s=48" alt="HeySora"></a>
+<a class="sponsor-item-small" href="https://lets-book.com/" title="Let's Book" target="_blank" rel="noopener"><img src="https://avatars.githubusercontent.com/u/60887869?v=4&s=48" alt="Let's Book"></a>
 </div></div><hr /><p style="text-align: center;">Your logo here? <a href="https://github.com/sponsors/azjezz" target="_blank" rel="noopener">Become a sponsor!</a></p>
 <!-- SPONSORS_END -->
 </div>
